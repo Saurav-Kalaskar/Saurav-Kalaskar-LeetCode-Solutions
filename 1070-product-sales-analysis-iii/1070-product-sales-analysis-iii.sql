@@ -1,5 +1,4 @@
 # Write your MySQL query statement below
-# Write your MySQL query statement below
 
 WITH CTE AS (
     SELECT product_id, MIN(year) AS minyear FROM Sales 
