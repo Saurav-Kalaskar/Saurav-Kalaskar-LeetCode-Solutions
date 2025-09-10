@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/keyboard-row">500. Keyboard Row</a></h2><h3>Easy</h3><hr><p>Given an array of strings <code>words</code>, return <em>the words that can be typed using letters of the alphabet on only one row of American keyboard like the image below</em>.</p>
+<h2><a href="https://leetcode.com/problems/keyboard-row/">500. Keyboard Row</a></h2><h3>Easy</h3><hr><p>Given an array of strings <code>words</code>, return <em>the words that can be typed using letters of the alphabet on only one row of American keyboard like the image below</em>.</p>
 
 <p><strong>Note</strong> that the strings are <strong>case-insensitive</strong>, both lowercased and uppercased of the same letter are treated as if they are at the same row.</p>
 
