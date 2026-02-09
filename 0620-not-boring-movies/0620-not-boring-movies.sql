@@ -1,4 +1,7 @@
 # Write your MySQL query statement below
-select * from cinema
-where mod(id, 2) = 1 and
-description <> 'boring' order by rating desc
+Select id, movie, description, rating
+from Cinema
+where mod(id,2)=1
+AND Description != "boring"
+Group by id
+order by rating Desc;
