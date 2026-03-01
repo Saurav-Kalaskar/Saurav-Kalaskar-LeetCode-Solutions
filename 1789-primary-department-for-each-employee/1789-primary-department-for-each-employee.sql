@@ -1,9 +1,10 @@
 # Write your MySQL query statement below
-SELECT employee_id, department_id 
-FROM Employee
-WHERE primary_flag = 'Y'
-UNION
-SELECT employee_id, department_id 
-FROM Employee 
-GROUP BY employee_id
-HAVING COUNT(employee_id) = 1
+select employee_id, department_id
+from employee 
+where primary_flag ="y"
+OR employee_id in (
+    select employee_id
+    from employee
+    Group by employee_id
+    having count(*) = 1
+) 
