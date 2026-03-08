@@ -17,6 +17,7 @@ Daily problem solving of leetcode problems to get master in Datastructures and A
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0029-divide-two-integers/) | Medium |
 | [0066-plus-one](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/master/0066-plus-one) |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -53,4 +54,8 @@ Daily problem solving of leetcode problems to get master in Datastructures and A
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0029-divide-two-integers](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0029-divide-two-integers/) | Medium |
 <!---LeetCode Topics End-->
