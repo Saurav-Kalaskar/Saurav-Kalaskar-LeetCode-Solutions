@@ -95,4 +95,5 @@ Daily problem solving of leetcode problems to get master in Datastructures and A
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0006-zigzag-conversion/) | Medium |
+| [0008-string-to-integer-atoi](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0008-string-to-integer-atoi/) | Medium |
 <!---LeetCode Topics End-->
