@@ -8,6 +8,7 @@ Daily problem solving of leetcode problems to get master in Datastructures and A
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0016-3sum-closest](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0018-4sum/) | Medium |
 | [0027-remove-element](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0066-plus-one](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/master/0066-plus-one) |
@@ -20,6 +21,7 @@ Daily problem solving of leetcode problems to get master in Datastructures and A
 | [0005-longest-palindromic-substring](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0016-3sum-closest](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0018-4sum/) | Medium |
 | [0027-remove-element](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0086-partition-list](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0086-partition-list/) | Medium |
 ## Math
@@ -95,6 +97,7 @@ Daily problem solving of leetcode problems to get master in Datastructures and A
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0018-4sum/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
