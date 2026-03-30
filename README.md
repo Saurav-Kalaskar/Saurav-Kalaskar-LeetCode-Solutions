@@ -19,6 +19,7 @@ Daily problem solving of leetcode problems to get master in Datastructures and A
 | [0084-largest-rectangle-in-histogram](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0413-arithmetic-slices](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0413-arithmetic-slices/) | Medium |
+| [3843-first-element-with-unique-frequency](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,6 +80,7 @@ Daily problem solving of leetcode problems to get master in Datastructures and A
 | [0012-integer-to-roman](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [3843-first-element-with-unique-frequency](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,4 +135,8 @@ Daily problem solving of leetcode problems to get master in Datastructures and A
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3843-first-element-with-unique-frequency](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 <!---LeetCode Topics End-->
