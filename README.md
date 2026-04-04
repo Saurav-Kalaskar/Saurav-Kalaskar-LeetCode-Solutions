@@ -17,6 +17,7 @@ Daily problem solving of leetcode problems to get master in Datastructures and A
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
+| [0045-jump-game-ii](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0066-plus-one](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -48,6 +49,7 @@ Daily problem solving of leetcode problems to get master in Datastructures and A
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0045-jump-game-ii](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0413-arithmetic-slices](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0413-arithmetic-slices/) | Medium |
 ## Sliding Window
@@ -137,6 +139,7 @@ Daily problem solving of leetcode problems to get master in Datastructures and A
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0045-jump-game-ii](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0045-jump-game-ii/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
