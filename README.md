@@ -28,6 +28,7 @@ Daily problem solving of leetcode problems to get master in Datastructures and A
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0413-arithmetic-slices](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0413-arithmetic-slices/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0645-set-mismatch](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [3843-first-element-with-unique-frequency](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/3843-first-element-with-unique-frequency/) | Medium |
@@ -101,6 +102,7 @@ Daily problem solving of leetcode problems to get master in Datastructures and A
 | [0012-integer-to-roman](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0645-set-mismatch](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [3843-first-element-with-unique-frequency](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -112,6 +114,7 @@ Daily problem solving of leetcode problems to get master in Datastructures and A
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0029-divide-two-integers/) | Medium |
 | [0078-subsets](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
+| [0645-set-mismatch](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -134,6 +137,7 @@ Daily problem solving of leetcode problems to get master in Datastructures and A
 | [0016-3sum-closest](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0018-4sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0645-set-mismatch](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
