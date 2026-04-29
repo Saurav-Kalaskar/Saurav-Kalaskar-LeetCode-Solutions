@@ -26,6 +26,7 @@ Daily problem solving of leetcode problems to get master in Datastructures and A
 | [0084-largest-rectangle-in-histogram](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0413-arithmetic-slices](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0413-arithmetic-slices/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -59,6 +60,7 @@ Daily problem solving of leetcode problems to get master in Datastructures and A
 | [0050-powx-n](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0050-powx-n/) | Medium |
 | [0060-permutation-sequence](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0060-permutation-sequence/) | Hard |
 | [0066-plus-one](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,6 +127,7 @@ Daily problem solving of leetcode problems to get master in Datastructures and A
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0084-largest-rectangle-in-histogram](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
