@@ -38,6 +38,7 @@ Daily problem solving of leetcode problems to get master in Datastructures and A
 | [1441-build-an-array-with-stack-operations](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1470-shuffle-the-array](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [3843-first-element-with-unique-frequency](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 ## Two Pointers
@@ -138,6 +139,7 @@ Daily problem solving of leetcode problems to get master in Datastructures and A
 | [0739-daily-temperatures](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -197,6 +199,7 @@ Daily problem solving of leetcode problems to get master in Datastructures and A
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0043-multiply-strings/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -211,4 +214,8 @@ Daily problem solving of leetcode problems to get master in Datastructures and A
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 <!---LeetCode Topics End-->
