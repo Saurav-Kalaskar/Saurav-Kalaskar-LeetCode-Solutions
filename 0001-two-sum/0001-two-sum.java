@@ -1,21 +1,13 @@
-import java.util.HashMap;
-import java.util.Map;
-
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-        Map<Integer, Integer> numMap = new HashMap<>();
-        
-        for (int i = 0; i < nums.length; i++) {
-            int number = target - nums[i]; 
-            
-         
-            if (numMap.containsKey(number)) {
-                return new int[]{numMap.get(number), i}; 
+        int n = nums.length;
+        for (int i = 0; i < n - 1; i++) {
+            for (int j = i + 1; j < n; j++) {
+                if (nums[i] + nums[j] == target) {
+                    return new int[]{i, j};
+                }
             }
-            
-            numMap.put(nums[i], i);
         }
-        
-        throw new IllegalArgumentException("No two sum solution");
+        return new int[]{}; // No solution found
     }
 }
