@@ -79,6 +79,7 @@ Daily problem solving of leetcode problems to get master in Datastructures and A
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0413-arithmetic-slices](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0413-arithmetic-slices/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -113,6 +114,7 @@ Daily problem solving of leetcode problems to get master in Datastructures and A
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -175,6 +177,7 @@ Daily problem solving of leetcode problems to get master in Datastructures and A
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0008-string-to-integer-atoi/) | Medium |
