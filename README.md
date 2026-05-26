@@ -28,6 +28,7 @@ Daily problem solving of leetcode problems to get master in Datastructures and A
 | [0088-merge-sorted-array](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0413-arithmetic-slices](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0413-arithmetic-slices/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -234,5 +235,6 @@ Daily problem solving of leetcode problems to get master in Datastructures and A
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [1046-last-stone-weight](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/1046-last-stone-weight/) | Easy |
 <!---LeetCode Topics End-->
