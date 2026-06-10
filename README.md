@@ -192,6 +192,7 @@ Daily problem solving of leetcode problems to get master in Datastructures and A
 | [0020-valid-parentheses](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0043-multiply-strings](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0079-word-search](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0079-word-search/) | Medium |
+| [0482-license-key-formatting](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0482-license-key-formatting/) | Easy |
 | [0520-detect-capital](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0520-detect-capital/) | Easy |
 | [0831-masking-personal-information](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0831-masking-personal-information/) | Medium |
 ## Greedy
