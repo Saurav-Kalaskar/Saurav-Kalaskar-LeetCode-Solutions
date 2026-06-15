@@ -136,6 +136,7 @@ Daily problem solving of leetcode problems to get master in Datastructures and A
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0029-divide-two-integers/) | Medium |
 | [0078-subsets](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
+| [0461-hamming-distance](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0461-hamming-distance/) | Easy |
 | [0645-set-mismatch](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0832-flipping-an-image](https://github.com/Saurav-Kalaskar/Saurav-Kalaskar-LeetCode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
 ## Stack
